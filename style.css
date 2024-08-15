@@ -1,0 +1,13 @@
+.a1{
+   text-decoration: none; 
+   color: white;
+   padding: 10px 50px;
+   background-color: black;
+   box-shadow: 1px 1px 1px 1px green;
+}
+.a1:hover{
+    box-shadow: 0px 0px 0px 0px green;
+}
+.a1:nth-child(2n){
+    background-color: red;
+}
